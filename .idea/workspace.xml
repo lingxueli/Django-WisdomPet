@@ -3,9 +3,8 @@
   <component name="ChangeListManager">
     <list default="true" id="498bf006-1020-40ff-b49b-a1d9963bed46" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/adoptions/admin.py" beforeDir="false" afterPath="$PROJECT_DIR$/adoptions/admin.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/adoptions/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/adoptions/models.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/db.sqlite3" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/adoptions/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/adoptions/views.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wisdompet/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/wisdompet/urls.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -16,44 +15,23 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="settings.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/wisdompet/settings.py">
+      <file leaf-file-name="views.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/adoptions/views.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="663">
-              <caret line="39" column="16" selection-start-line="39" selection-start-column="16" selection-end-line="39" selection-end-column="16" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="models.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/adoptions/models.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="306">
-              <caret line="18" column="24" selection-start-line="18" selection-start-column="24" selection-end-line="18" selection-end-column="24" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="load_pet_data.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/adoptions/management/commands/load_pet_data.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="281">
-              <caret line="40" column="20" selection-start-line="40" selection-start-column="16" selection-end-line="40" selection-end-column="20" />
+            <state relative-caret-position="51">
+              <caret line="3" column="18" lean-forward="true" selection-start-line="3" selection-start-column="18" selection-end-line="3" selection-end-column="18" />
               <folding>
-                <element signature="e#0#26#0" expanded="true" />
+                <element signature="e#0#35#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="admin.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/adoptions/admin.py">
+      <file leaf-file-name="urls.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/wisdompet/urls.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="102">
-              <caret line="6" column="54" lean-forward="true" selection-start-line="6" selection-start-column="54" selection-end-line="6" selection-end-column="54" />
-              <folding>
-                <element signature="e#0#32#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="34">
+              <caret line="2" column="4" selection-start-line="2" selection-start-column="4" selection-end-line="2" selection-end-column="4" />
             </state>
           </provider>
         </entry>
@@ -69,12 +47,14 @@
         <option value="$PROJECT_DIR$/wisdompet/settings.py" />
         <option value="$PROJECT_DIR$/adoptions/admin.py" />
         <option value="$PROJECT_DIR$/adoptions/models.py" />
+        <option value="$PROJECT_DIR$/adoptions/views.py" />
+        <option value="$PROJECT_DIR$/wisdompet/urls.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="999" />
-    <option name="y" value="477" />
+    <option name="x" value="192" />
+    <option name="y" value="736" />
     <option name="width" value="2100" />
     <option name="height" value="1377" />
   </component>
@@ -96,6 +76,11 @@
               <item name="wisdompet" type="b2602c69:ProjectViewProjectNode" />
               <item name="wisdompet" type="462c0819:PsiDirectoryNode" />
               <item name="adoptions" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="wisdompet" type="b2602c69:ProjectViewProjectNode" />
+              <item name="wisdompet" type="462c0819:PsiDirectoryNode" />
+              <item name="wisdompet" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -132,7 +117,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="895" y="316" width="1400" height="918" extended-state="0" />
+    <frame x="128" y="491" width="1400" height="918" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24963924" />
@@ -157,6 +142,11 @@
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="2" />
+    </breakpoint-manager>
+  </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/wisdompet/settings.py">
       <provider selected="true" editor-type-id="text-editor">
@@ -172,10 +162,20 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/wisdompet/settings.py">
+    <entry file="file://$PROJECT_DIR$/adoptions/admin.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="663">
-          <caret line="39" column="16" selection-start-line="39" selection-start-column="16" selection-end-line="39" selection-end-column="16" />
+        <state relative-caret-position="102">
+          <caret line="6" column="54" selection-start-line="6" selection-start-column="54" selection-end-line="6" selection-end-column="54" />
+          <folding>
+            <element signature="e#0#32#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/adoptions/models.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="18" column="24" selection-start-line="18" selection-start-column="24" selection-end-line="18" selection-end-column="24" />
         </state>
       </provider>
     </entry>
@@ -189,20 +189,27 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/adoptions/admin.py">
+    <entry file="file://$PROJECT_DIR$/wisdompet/settings.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="6" column="54" lean-forward="true" selection-start-line="6" selection-start-column="54" selection-end-line="6" selection-end-column="54" />
+        <state relative-caret-position="306">
+          <caret line="39" column="16" selection-start-line="39" selection-start-column="16" selection-end-line="39" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/adoptions/views.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="18" lean-forward="true" selection-start-line="3" selection-start-column="18" selection-end-line="3" selection-end-column="18" />
           <folding>
-            <element signature="e#0#32#0" expanded="true" />
+            <element signature="e#0#35#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/adoptions/models.py">
+    <entry file="file://$PROJECT_DIR$/wisdompet/urls.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="18" column="24" selection-start-line="18" selection-start-column="24" selection-end-line="18" selection-end-column="24" />
+        <state relative-caret-position="34">
+          <caret line="2" column="4" selection-start-line="2" selection-start-column="4" selection-end-line="2" selection-end-column="4" />
         </state>
       </provider>
     </entry>
