@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="498bf006-1020-40ff-b49b-a1d9963bed46" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/adoptions/templates/home.html" beforeDir="false" afterPath="$PROJECT_DIR$/adoptions/templates/home.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/adoptions/templates/pet_detail.html" beforeDir="false" afterPath="$PROJECT_DIR$/adoptions/templates/pet_detail.html" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -35,11 +34,20 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="home.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="home.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/adoptions/templates/home.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="170">
-              <caret line="10" column="50" selection-start-line="10" selection-start-column="50" selection-end-line="10" selection-end-column="50" />
+              <caret line="10" selection-start-line="7" selection-end-line="10" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="pet_detail.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/adoptions/templates/pet_detail.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="374">
+              <caret line="22" column="26" selection-start-line="22" selection-start-column="26" selection-end-line="22" selection-end-column="26" />
             </state>
           </provider>
         </entry>
@@ -57,16 +65,16 @@
         <option value="$PROJECT_DIR$/adoptions/models.py" />
         <option value="$PROJECT_DIR$/wisdompet/urls.py" />
         <option value="$PROJECT_DIR$/adoptions/views.py" />
-        <option value="$PROJECT_DIR$/adoptions/templates/pet_detail.html" />
         <option value="$PROJECT_DIR$/adoptions/templates/home.html" />
+        <option value="$PROJECT_DIR$/adoptions/templates/pet_detail.html" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="291" />
-    <option name="y" value="763" />
+  <component name="ProjectFrameBounds" extendedState="1">
+    <option name="x" value="444" />
+    <option name="y" value="415" />
     <option name="width" value="2100" />
-    <option name="height" value="1377" />
+    <option name="height" value="995" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -144,7 +152,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="194" y="509" width="1400" height="918" extended-state="0" />
+    <frame x="296" y="277" width="1400" height="663" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24963924" />
@@ -243,17 +251,17 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/adoptions/templates/pet_detail.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="10" selection-start-column="10" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/adoptions/templates/home.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="170">
-          <caret line="10" column="50" selection-start-line="10" selection-start-column="50" selection-end-line="10" selection-end-column="50" />
+          <caret line="10" selection-start-line="7" selection-end-line="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/adoptions/templates/pet_detail.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="22" column="26" selection-start-line="22" selection-start-column="26" selection-end-line="22" selection-end-column="26" />
         </state>
       </provider>
     </entry>
