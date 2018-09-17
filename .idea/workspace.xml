@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="498bf006-1020-40ff-b49b-a1d9963bed46" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/adoptions/templates/home.html" beforeDir="false" afterPath="$PROJECT_DIR$/adoptions/templates/home.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/adoptions/templates/pet_detail.html" beforeDir="false" afterPath="$PROJECT_DIR$/adoptions/templates/pet_detail.html" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -34,20 +35,38 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="home.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/adoptions/templates/home.html">
+      <file leaf-file-name="pet_detail.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/adoptions/templates/pet_detail.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="170">
-              <caret line="10" selection-start-line="7" selection-end-line="10" />
+            <state relative-caret-position="136">
+              <caret line="8" column="20" lean-forward="true" selection-start-line="8" selection-start-column="20" selection-end-line="8" selection-end-column="20" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="pet_detail.html" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/adoptions/templates/pet_detail.html">
+      <file leaf-file-name="starter_template.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/starter_template.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="374">
-              <caret line="22" column="26" selection-start-line="22" selection-start-column="26" selection-end-line="22" selection-end-column="26" />
+            <state relative-caret-position="119">
+              <caret line="7" column="12" lean-forward="true" selection-end-line="45" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="base.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/adoptions/templates/base.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="335">
+              <caret line="33" column="30" selection-start-line="33" selection-start-column="30" selection-end-line="33" selection-end-column="30" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="home.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/adoptions/templates/home.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="272">
+              <caret line="16" column="14" selection-start-line="16" selection-end-line="16" selection-end-column="14" />
             </state>
           </provider>
         </entry>
@@ -65,14 +84,15 @@
         <option value="$PROJECT_DIR$/adoptions/models.py" />
         <option value="$PROJECT_DIR$/wisdompet/urls.py" />
         <option value="$PROJECT_DIR$/adoptions/views.py" />
+        <option value="$PROJECT_DIR$/adoptions/templates/base.html" />
         <option value="$PROJECT_DIR$/adoptions/templates/home.html" />
         <option value="$PROJECT_DIR$/adoptions/templates/pet_detail.html" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="1">
-    <option name="x" value="444" />
-    <option name="y" value="415" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="850" />
+    <option name="y" value="237" />
     <option name="width" value="2100" />
     <option name="height" value="995" />
   </component>
@@ -152,7 +172,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="296" y="277" width="1400" height="663" extended-state="0" />
+    <frame x="718" y="326" width="1400" height="663" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24963924" />
@@ -251,17 +271,31 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/starter_template.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="12" lean-forward="true" selection-end-line="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/adoptions/templates/base.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="335">
+          <caret line="33" column="30" selection-start-line="33" selection-start-column="30" selection-end-line="33" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/adoptions/templates/home.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="10" selection-start-line="7" selection-end-line="10" />
+        <state relative-caret-position="272">
+          <caret line="16" column="14" selection-start-line="16" selection-end-line="16" selection-end-column="14" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/adoptions/templates/pet_detail.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="374">
-          <caret line="22" column="26" selection-start-line="22" selection-start-column="26" selection-end-line="22" selection-end-column="26" />
+        <state relative-caret-position="136">
+          <caret line="8" column="20" lean-forward="true" selection-start-line="8" selection-start-column="20" selection-end-line="8" selection-end-column="20" />
         </state>
       </provider>
     </entry>
